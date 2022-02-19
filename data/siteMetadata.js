@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Shakhawat&apos;s Blog',
   author: 'Shakhawat',
-  headerTitle: 'Shakhawat&apos;s Blog',
+  headerTitle: 'TailwindBlog',
   description: 'a passionate Security Researcher, Creator, and Technology Enthusiast.',
   language: 'en-us',
   theme: 'system', // system, dark or light
