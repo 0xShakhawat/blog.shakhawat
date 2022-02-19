@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Shakhawat Blog',
   author: 'Shakhawat',
   headerTitle: 'TailwindBlog',
-  description: 'A personal blog for Shakhawat',
+  description: 'a passionate Security Researcher, Creator, and Technology Enthusiast.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
